@@ -1,1 +1,5 @@
-
+Day one covers my review of LAN switching.
+This covers the topics of MAC Addresses, ARP and VLAN
+Documentation shows the MAC address table shown dynamically within the switch command line interface.
+It also show ARP and its messages such as ARP request and Arp reply, also the concepts of Unknown Unicast Frame and Known Unicast Frame
+And finally VLANS and how to create a smaller LAN inside a LAN connection
